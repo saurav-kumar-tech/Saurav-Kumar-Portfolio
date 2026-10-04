@@ -354,7 +354,7 @@ I am currently **open to software development internships, entry-level opportuni
 
 ### Live Website
 
-**https://saurav-kumar-tech.github.io/**
+**https://saurav-kumar-tech.github.io/Saurav-Kumar-Portfolio/**
 
 The portfolio provides a complete overview of my:
 
