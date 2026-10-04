@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://saurav-kumar-tech.github.io/" target="_blank">
+  <a href="https://saurav-kumar-tech.github.io/Saurav-Kumar-Portfolio/" target="_blank">
     <strong>🌐 Live Portfolio</strong>
   </a>
   &nbsp; • &nbsp;
